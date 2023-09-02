@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TIS",
-    "currentPage": "page1.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1378,7 +1378,7 @@
         }
       ]
     },
-    "page1.html": {
+    "aboutus.html": {
       "settings": {
         "title": "About us",
         "meta_descr": "",
