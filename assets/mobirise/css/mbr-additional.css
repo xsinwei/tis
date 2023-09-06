@@ -4060,53 +4060,6 @@ a {
 .cid-tP5Cs9MLfi .mbr-section-btn {
   text-align: center;
 }
-.cid-tP5H1wr02I {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background: #ffffff;
-}
-.cid-tP5H1wr02I .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tP5H1wr02I .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tP5H1wr02I .google-map {
-  height: 30rem;
-  position: relative;
-  border-radius: 2rem;
-}
-.cid-tP5H1wr02I .google-map iframe {
-  height: 100%;
-  width: 100%;
-  border-radius: 2rem;
-}
-.cid-tP5H1wr02I .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-tP5H1wr02I .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-tP5H1wr02I .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-tP5H1wr02I .content-head {
-  max-width: 800px;
-}
 .cid-tP5GYT4ThD {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -4187,7 +4140,7 @@ a {
 .cid-tP5FXnFmEW {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #0f2a4a;
 }
 .cid-tP5FXnFmEW .mbr-overlay {
   background-color: #ffffff;
@@ -4204,6 +4157,9 @@ a {
   .cid-tP5FXnFmEW form .mbr-section-btn .btn {
     width: 100%;
   }
+}
+.cid-tP5FXnFmEW .mbr-section-title {
+  color: #ffffff;
 }
 .cid-tP5Csb62LQ {
   padding-top: 2rem;
